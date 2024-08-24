@@ -66,10 +66,10 @@ This solution implements the required functionality using Node.js, following bes
 
 Modular structure with clear separation of concerns
 Dependency injection for loose coupling
-Strategy pattern for flexible offer and delivery rule implementations
+Strategy pattern for a flexible offer and delivery rule implementations
 Unit and integration tests using Jest
 ESLint for code quality checks
 Docker and Docker Compose for containerization
 A basic CI/CD pipeline using GitHub Actions
 
-The solution is scalable and can be easily extended to add new products, offers, or delivery rules. The README file provides clear instructions for setup, usage, and contribution.
+The solution is scalable and can be easily extended to add new products, offers, or delivery rules. The README file provides clear instructions for setup, and usage.
