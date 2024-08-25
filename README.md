@@ -62,11 +62,11 @@ for the products in their basket.
 
 This project is licensed under the MIT License.
 
-This solution implements the required functionality using Node.js, following best practices and the keywords you mentioned. It uses:
+This solution implements the required functionality using Node.js, following best practices. It uses:
 
 Modular structure with clear separation of concerns
 Dependency injection for loose coupling
-Strategy pattern for a flexible offer and delivery rule implementations
+Strategy pattern for flexible offer and delivery rule implementations
 Unit and integration tests using Jest
 ESLint for code quality checks
 Docker and Docker Compose for containerization
